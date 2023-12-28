@@ -1,0 +1,36 @@
+@media screen and (max-width:767px) {
+    #page1{
+        height: 50vh;
+    }
+    #page2{
+        height: 30vh;
+    }
+    nav h3,h4{
+        font-size: 2vw;
+    }
+    .p3-text{
+        margin-top: 50vw;
+
+    }
+    .page3-elements{
+        height: 100vh;
+        flex-direction: column;
+    }
+    .vbox{
+        
+        width: 100%;
+    }
+   
+    #page5 video{
+        height: 50vh;
+        
+    }
+    #page5 svg{
+        height: 25vh;
+       
+    }
+    .p7-top h1{
+        font-size: 4vh;
+    }
+   
+}
